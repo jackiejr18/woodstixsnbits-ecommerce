@@ -2,14 +2,14 @@ import p1_img from "./voxelbookmark_bulbasaur.png";
 import p2_img from "./voxelbookmark_charmander.png";
 import p3_img from "./voxelbookmark_darthvader.png";
 import p4_img from "./voxelbookmark_spiderman.png";
-import p5_img from "./product_5.png";
-import p6_img from "./product_6.png";
-import p7_img from "./product_7.png";
-import p8_img from "./product_8.png";
-import p9_img from "./product_9.png";
-import p10_img from "./product_10.png";
-import p11_img from "./product_11.png";
-import p12_img from "./product_12.png";
+import p5_img from "./voxelbookmark_r2d2.png";
+import p6_img from "./voxelbookmark_redbottom.png";
+import p7_img from "./voxelbookmark_jacksparrow.png";
+import p8_img from "./voxelbookmark_hulk.png";
+import p9_img from "./voxelbookmark_powerpuffgirls.png";
+import p10_img from "./voxelbookmark_chewbacca.png";
+import p11_img from "./voxelbookmark_mario.png";
+import p12_img from "./voxelbookmark_spaghetti.png";
 import p13_img from "./product_13.png";
 import p14_img from "./product_14.png";
 import p15_img from "./product_15.png";
@@ -70,7 +70,7 @@ let all_product = [
   },
   {
     id: 5,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "R2D2 Engraved Bookmark",
     category: "women",
     image: p5_img,
     new_price: 85.0,
@@ -78,7 +78,7 @@ let all_product = [
   },
   {
     id: 6,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Red Bottom High Heel Engraved Bookmark",
     category: "women",
     image: p6_img,
     new_price: 85.0,
@@ -86,7 +86,7 @@ let all_product = [
   },
   {
     id: 7,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Jack Sparrow Engraved Bookmark",
     category: "women",
     image: p7_img,
     new_price: 85.0,
@@ -94,7 +94,7 @@ let all_product = [
   },
   {
     id: 8,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Incredible Hulk Engraved Bookmark",
     category: "women",
     image: p8_img,
     new_price: 85.0,
@@ -102,7 +102,7 @@ let all_product = [
   },
   {
     id: 9,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Powerpuff Girls Engraved Bookmark",
     category: "women",
     image: p9_img,
     new_price: 85.0,
@@ -110,7 +110,7 @@ let all_product = [
   },
   {
     id: 10,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Chewbacca Engraved Bookmark",
     category: "women",
     image: p10_img,
     new_price: 85.0,
@@ -118,7 +118,7 @@ let all_product = [
   },
   {
     id: 11,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Mario Engraved Bookmark",
     category: "women",
     image: p11_img,
     new_price: 85.0,
@@ -126,7 +126,7 @@ let all_product = [
   },
   {
     id: 12,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Spaghetti Engraved Bookmark",
     category: "women",
     image: p12_img,
     new_price: 85.0,
