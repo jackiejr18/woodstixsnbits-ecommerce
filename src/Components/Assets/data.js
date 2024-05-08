@@ -1,7 +1,7 @@
 import p1_img from './voxelbookmark_bulbasaur.png'
 import p2_img from './voxelbookmark_charmander.png'
-import p3_img from './product_3.png'
-import p4_img from './product_4.png'
+import p3_img from './voxelbookmark_darthvader.png'
+import p4_img from './voxelbookmark_spiderman.png'
 
 let data_product = [
   {
@@ -18,13 +18,13 @@ let data_product = [
     old_price:120.50,
   },
   {id:3,
-    name:"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name:"Darth Vader Engraved Bookmark",
     image:p3_img,
     new_price:60.00,
     old_price:100.50,
   },
   {id:4,
-    name:"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name:"Spiderman Engraved Bookmark",
     image:p4_img,
     new_price:100.00,
     old_price:150.00,

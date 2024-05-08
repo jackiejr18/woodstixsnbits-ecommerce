@@ -1,7 +1,7 @@
 import p1_img from "./voxelbookmark_bulbasaur.png";
 import p2_img from "./voxelbookmark_charmander.png";
-import p3_img from "./product_3.png";
-import p4_img from "./product_4.png";
+import p3_img from "./voxelbookmark_darthvader.png";
+import p4_img from "./voxelbookmark_spiderman.png";
 import p5_img from "./product_5.png";
 import p6_img from "./product_6.png";
 import p7_img from "./product_7.png";
@@ -54,16 +54,16 @@ let all_product = [
   },
   {
     id: 3,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
-    category: "women",
+    name: "Darth Vader Engraved Bookmark",
+    category: "popular",
     image: p3_img,
     new_price: 60.0,
     old_price: 100.5,
   },
   {
     id: 4,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
-    category: "women",
+    name: "Spiderman Engraved Bookmark",
+    category: "popular",
     image: p4_img,
     new_price: 100.0,
     old_price: 150.0,
