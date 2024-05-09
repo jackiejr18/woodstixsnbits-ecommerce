@@ -9,7 +9,7 @@ import p8_img from "./voxelbookmark_hulk.png";
 import p9_img from "./voxelbookmark_powerpuffgirls.png";
 import p10_img from "./voxelbookmark_chewbacca.png";
 import p11_img from "./voxelbookmark_mario.png";
-import p12_img from "./voxelbookmark_spaghetti.png";
+import p12_img from "./voxelbookmark_spongebob.png";
 import p13_img from "./voxelbookmark_salad.png";
 import p14_img from "./voxelbookmark_chanel.png";
 import p15_img from "./voxelbookmark_delorean.png";
@@ -126,7 +126,7 @@ let all_product = [
   },
   {
     id: 12,
-    name: "Spaghetti Engraved Bookmark",
+    name: "Spongebob Engraved Bookmark",
     category: "popular",
     image: p12_img,
     new_price: 85.0,
@@ -135,7 +135,7 @@ let all_product = [
   {
     id: 13,
     name: "Salad Engraved Bookamark",
-    category: "men",
+    category: "new",
     image: p13_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -143,7 +143,7 @@ let all_product = [
   {
     id: 14,
     name: "Chanel Engraved Bookmark",
-    category: "men",
+    category: "new",
     image: p14_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -151,7 +151,7 @@ let all_product = [
   {
     id: 15,
     name: "Back to the Future Engraved Bookmark",
-    category: "men",
+    category: "new",
     image: p15_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -159,7 +159,7 @@ let all_product = [
   {
     id: 16,
     name: "Starbucks Engraved Bookmark",
-    category: "men",
+    category: "new",
     image: p16_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -167,7 +167,7 @@ let all_product = [
   {
     id: 17,
     name: "MAC Makeup Kit Engraved Bookmark",
-    category: "men",
+    category: "new",
     image: p17_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -175,7 +175,7 @@ let all_product = [
   {
     id: 18,
     name: "Harry Potter Engraved Bookmark",
-    category: "men",
+    category: "new",
     image: p18_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -183,7 +183,7 @@ let all_product = [
   {
     id: 19,
     name: "Wonder Woman Engraved Bookmark",
-    category: "men",
+    category: "new",
     image: p19_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -191,7 +191,7 @@ let all_product = [
   {
     id: 20,
     name: "Mystery Machine Engraved Bookmark",
-    category: "men",
+    category: "new",
     image: p20_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -199,7 +199,7 @@ let all_product = [
   {
     id: 21,
     name: "Venom Engraved Bookmark",
-    category: "men",
+    category: "new",
     image: p21_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -207,7 +207,7 @@ let all_product = [
   {
     id: 22,
     name: "Yoda Engraved Bookmark",
-    category: "men",
+    category: "new",
     image: p22_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -215,7 +215,7 @@ let all_product = [
   {
     id: 23,
     name: "Smores Campfire Engraved Bookmark",
-    category: "men",
+    category: "new",
     image: p23_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -223,7 +223,7 @@ let all_product = [
   {
     id: 24,
     name: "Trumpet Engraved Bookmark",
-    category: "men",
+    category: "new",
     image: p24_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -231,7 +231,7 @@ let all_product = [
   {
     id: 25,
     name: "Bonsai Tree Engraved Bookmark",
-    category: "kid",
+    category: "upcoming",
     image: p25_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -239,7 +239,7 @@ let all_product = [
   {
     id: 26,
     name: "Walter White Engraved Bookmark",
-    category: "kid",
+    category: "upcoming",
     image: p26_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -247,7 +247,7 @@ let all_product = [
   {
     id: 27,
     name: "Spaceship Engraved Bookmark",
-    category: "kid",
+    category: "upcoming",
     image: p27_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -255,7 +255,7 @@ let all_product = [
   {
     id: 28,
     name: "Batman Engraved Bookmark",
-    category: "kid",
+    category: "upcoming",
     image: p28_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -263,7 +263,7 @@ let all_product = [
   {
     id: 29,
     name: "ATV Engraved Bookmark",
-    category: "kid",
+    category: "upcoming",
     image: p29_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -271,7 +271,7 @@ let all_product = [
   {
     id: 30,
     name: "Volcano Engraved Bookmark",
-    category: "kid",
+    category: "upcoming",
     image: p30_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -279,7 +279,7 @@ let all_product = [
   {
     id: 31,
     name: "Master Chief Engraved Bookmark",
-    category: "kid",
+    category: "upcoming",
     image: p31_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -287,7 +287,7 @@ let all_product = [
   {
     id: 32,
     name: "Sonic Engraved Bookmark",
-    category: "kid",
+    category: "upcoming",
     image: p32_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -295,7 +295,7 @@ let all_product = [
   {
     id: 33,
     name: "Pizza Engraved Bookmark",
-    category: "kid",
+    category: "upcoming",
     image: p33_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -303,7 +303,7 @@ let all_product = [
   {
     id: 34,
     name: "Perfume Engraved Bookmark",
-    category: "kid",
+    category: "upcoming",
     image: p34_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -311,7 +311,7 @@ let all_product = [
   {
     id: 35,
     name: "Nike Engraved Bookmark",
-    category: "kid",
+    category: "upcoming",
     image: p35_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -319,7 +319,7 @@ let all_product = [
   {
     id: 36,
     name: "Donkey Kong Engraved Bookmark",
-    category: "kid",
+    category: "upcoming",
     image: p36_img,
     new_price: 85.0,
     old_price: 120.5,
