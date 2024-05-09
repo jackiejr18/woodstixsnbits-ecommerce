@@ -29,7 +29,7 @@ const Navbar = () => {
       <ul ref={menuRef} className='nav-menu'>
         <li onClick={()=>{setMenu('shop')}}><Link style={{textDecoration: 'none'}} to='/'>Shop</Link>{menu==='shop'?<hr/>:<></>}</li>
         <li onClick={()=>{setMenu('mens')}}><Link style={{textDecoration: 'none'}} to='/mens'>New</Link>{menu==='mens'?<hr/>:<></>}</li>
-        <li onClick={()=>{setMenu('womens')}}><Link style={{textDecoration: 'none'}} to='/womens'>Popular</Link>{menu==='womens'?<hr/>:<></>}</li>
+        <li onClick={()=>{setMenu('popular')}}><Link style={{textDecoration: 'none'}} to='/popular'>Popular</Link>{menu==='womens'?<hr/>:<></>}</li>
         <li onClick={()=>{setMenu('kids')}}><Link style={{textDecoration: 'none'}} to='/kids'>Upcoming</Link>{menu==='kids'?<hr/>:<></>}</li>
       </ul>
       <div className="nav-login-cart">
