@@ -10,18 +10,18 @@ import p9_img from "./voxelbookmark_powerpuffgirls.png";
 import p10_img from "./voxelbookmark_chewbacca.png";
 import p11_img from "./voxelbookmark_mario.png";
 import p12_img from "./voxelbookmark_spaghetti.png";
-import p13_img from "./product_13.png";
-import p14_img from "./product_14.png";
-import p15_img from "./product_15.png";
-import p16_img from "./product_16.png";
-import p17_img from "./product_17.png";
-import p18_img from "./product_18.png";
-import p19_img from "./product_19.png";
-import p20_img from "./product_20.png";
-import p21_img from "./product_21.png";
-import p22_img from "./product_22.png";
-import p23_img from "./product_23.png";
-import p24_img from "./product_24.png";
+import p13_img from "./voxelbookmark_salad.png";
+import p14_img from "./voxelbookmark_chanel.png";
+import p15_img from "./voxelbookmark_delorean.png";
+import p16_img from "./voxelbookmark_starbucks.png";
+import p17_img from "./voxelbookmark_macmakeup.png";
+import p18_img from "./voxelbookmark_harrypotter.png";
+import p19_img from "./voxelbookmark_wonderwoman.png";
+import p20_img from "./voxelbookmark_mysterymachine.png";
+import p21_img from "./voxelbookmark_venom.png";
+import p22_img from "./voxelbookmark_yoda.png";
+import p23_img from "./voxelbookmark_smores.png";
+import p24_img from "./voxelbookmark_trumpet.png";
 import p25_img from "./product_25.png";
 import p26_img from "./product_26.png";
 import p27_img from "./product_27.png";
@@ -134,7 +134,7 @@ let all_product = [
   },
   {
     id: 13,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Salad Engraved Bookamark",
     category: "men",
     image: p13_img,
     new_price: 85.0,
@@ -142,7 +142,7 @@ let all_product = [
   },
   {
     id: 14,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Chanel Engraved Bookmark",
     category: "men",
     image: p14_img,
     new_price: 85.0,
@@ -150,7 +150,7 @@ let all_product = [
   },
   {
     id: 15,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Back to the Future Engraved Bookmark",
     category: "men",
     image: p15_img,
     new_price: 85.0,
@@ -158,7 +158,7 @@ let all_product = [
   },
   {
     id: 16,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Starbucks Engraved Bookmark",
     category: "men",
     image: p16_img,
     new_price: 85.0,
@@ -166,7 +166,7 @@ let all_product = [
   },
   {
     id: 17,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "MAC Makeup Kit Engraved Bookmark",
     category: "men",
     image: p17_img,
     new_price: 85.0,
@@ -174,7 +174,7 @@ let all_product = [
   },
   {
     id: 18,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Harry Potter Engraved Bookmark",
     category: "men",
     image: p18_img,
     new_price: 85.0,
@@ -182,7 +182,7 @@ let all_product = [
   },
   {
     id: 19,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Wonder Woman Engraved Bookmark",
     category: "men",
     image: p19_img,
     new_price: 85.0,
@@ -190,7 +190,7 @@ let all_product = [
   },
   {
     id: 20,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Mystery Machine Engraved Bookmark",
     category: "men",
     image: p20_img,
     new_price: 85.0,
@@ -198,7 +198,7 @@ let all_product = [
   },
   {
     id: 21,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Venom Engraved Bookmark",
     category: "men",
     image: p21_img,
     new_price: 85.0,
@@ -206,7 +206,7 @@ let all_product = [
   },
   {
     id: 22,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Yoda Engraved Bookmark",
     category: "men",
     image: p22_img,
     new_price: 85.0,
@@ -214,7 +214,7 @@ let all_product = [
   },
   {
     id: 23,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Smores Campfire Engraved Bookmark",
     category: "men",
     image: p23_img,
     new_price: 85.0,
@@ -222,7 +222,7 @@ let all_product = [
   },
   {
     id: 24,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Trumpet Engraved Bookmark",
     category: "men",
     image: p24_img,
     new_price: 85.0,
