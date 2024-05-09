@@ -1,7 +1,7 @@
 import p1_img from "./voxelbookmark_spongebob.png";
 import p2_img from "./voxelbookmark_nike.png";
 import p3_img from "./voxelbookmark_chanel.png";
-import p4_img from "./voxelbookmark_mtv.png";
+import p4_img from "./voxelbookmark_hulk.png";
 import p5_img from "./voxelbookmark_delorean.png";
 import p6_img from "./voxelbookmark_charmander.png";
 import p7_img from "./voxelbookmark_macmakeup.png";
@@ -31,7 +31,7 @@ let new_collections = [
   },
   {
     id: 8,
-    name: "MTV Engraved Bookmark",
+    name: "Incredible Hulk Engraved Bookmark",
     image: p4_img,
     new_price: 100.0,
     old_price: 150.0,
