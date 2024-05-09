@@ -42,7 +42,7 @@
   width: 80%;
   height: 3px;
   border-radius: 10px;
-  background: #FF4141;
+  background: #996633;
 }
 
 .nav-login-cart {
@@ -79,7 +79,7 @@
   margin-left: -55px;
   border-radius: 11px;
   font-size: 14px;
-  background: red;
+  background: #996633;
   color: white;
 }
 
@@ -93,7 +93,7 @@
   }
 
   .nav-logo img {
-    width: 40px;
+    width: 60px;
   }
 
   .nav-logo p {
