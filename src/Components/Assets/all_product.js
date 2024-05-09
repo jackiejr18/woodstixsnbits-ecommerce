@@ -71,7 +71,7 @@ let all_product = [
   {
     id: 5,
     name: "R2D2 Engraved Bookmark",
-    category: "women",
+    category: "popular",
     image: p5_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -79,7 +79,7 @@ let all_product = [
   {
     id: 6,
     name: "Red Bottom High Heel Engraved Bookmark",
-    category: "women",
+    category: "popular",
     image: p6_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -87,7 +87,7 @@ let all_product = [
   {
     id: 7,
     name: "Jack Sparrow Engraved Bookmark",
-    category: "women",
+    category: "popular",
     image: p7_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -95,7 +95,7 @@ let all_product = [
   {
     id: 8,
     name: "Incredible Hulk Engraved Bookmark",
-    category: "women",
+    category: "popular",
     image: p8_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -103,7 +103,7 @@ let all_product = [
   {
     id: 9,
     name: "Powerpuff Girls Engraved Bookmark",
-    category: "women",
+    category: "popular",
     image: p9_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -111,7 +111,7 @@ let all_product = [
   {
     id: 10,
     name: "Chewbacca Engraved Bookmark",
-    category: "women",
+    category: "popular",
     image: p10_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -119,7 +119,7 @@ let all_product = [
   {
     id: 11,
     name: "Mario Engraved Bookmark",
-    category: "women",
+    category: "popular",
     image: p11_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -127,7 +127,7 @@ let all_product = [
   {
     id: 12,
     name: "Spaghetti Engraved Bookmark",
-    category: "women",
+    category: "popular",
     image: p12_img,
     new_price: 85.0,
     old_price: 120.5,
